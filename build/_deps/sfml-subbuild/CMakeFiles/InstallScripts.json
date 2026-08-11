@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/FCG/Mario-Bros/build/_deps/sfml-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
